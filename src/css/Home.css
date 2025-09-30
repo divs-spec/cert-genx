@@ -1,0 +1,18 @@
+div.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.content {
+    padding: 10px;
+    width: 25rem;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+#btn-gs{
+    color: #fffe;
+}
