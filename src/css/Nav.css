@@ -1,0 +1,14 @@
+nav{
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background: #094067;
+  }
+
+  nav ul li{
+    list-style-type: none;
+    color: #fffffe;
+  }
+
+  nav ul li a{
+    color: #fffffe;
+  }
