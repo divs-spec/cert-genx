@@ -1,0 +1,11 @@
+#dash-about{
+    margin: 10px;
+    display: inline;
+    min-height: 100vh;
+}
+
+h3.title{
+    display: inline;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
