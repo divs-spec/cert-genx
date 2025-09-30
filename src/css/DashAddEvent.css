@@ -1,0 +1,38 @@
+.add-event{
+    min-height: 100vh;
+}
+
+.content{
+    padding-right: 20px;
+}
+
+dialog{
+    visibility: hidden;
+}
+
+#dview{
+    visibility: hidden;
+}
+
+#tempView{
+    cursor: crosshair;
+    border: 1px solid black;
+}
+
+#inputid, #inputname{
+    display: inline;
+    max-width: 100%;
+    scale: 0.6;
+    margin-left: -2.4em;
+}
+
+.cin{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    display: none;
+}
+
+#submit-msg{
+    text-align: center;
+    visibility: hidden;
+}
