@@ -1,0 +1,18 @@
+div.events{
+    float: right;
+    min-height: 100vh;
+}
+
+.subtitle{
+    padding-left: 10px;
+    margin: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60vw;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
